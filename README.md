@@ -3,7 +3,6 @@
 - 🌱 I’m studying computer science.
 - 💞️ I’m looking to collaborate on a video game development project.
 - 📫 How to reach me jamesodonnell331@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 1.2k hours in the game Apex Legends.
 
 <!---
